@@ -1,2 +1,2 @@
-# zappy
+# ZAPPY
 this is a clothing brand
